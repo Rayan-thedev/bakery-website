@@ -97,3 +97,25 @@ border-radius: 5px;
     background-position: center;
    
   }
+
+  .footer {
+    background-image: url(assets/images/hero/footer-hero.png);
+    height: 80vh;
+    width: 100vw;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+
+  .footer-items{
+    color:#F5F5F5 ;
+    margin-top: 8px;
+    font-size: large; 
+    font-weight: normal; 
+    width: fit-content;
+     cursor: pointer;
+  }
+
+  .footer-items:hover{
+    color: #E9BD8D;
+  }
